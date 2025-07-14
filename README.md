@@ -49,16 +49,16 @@ The project involved working across multiple tools, including:
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Page 1: Campaign Performance Overview  
-![Page 1](./screenshots/Page1_Campaign_Overview.png)
+![Page 1](./screenshots/Page1_Campaign_Overview.png.png)
 
 ### 🔹 Page 2: Customer & Sales Summary  
-![Page 2](./screenshots/Page2_Customer_Summary.png)
+![Page 2](./screenshots/Page2_Customer_Summary.png.png)
 
 ### 🔹 Page 3: AOV Monthly Trend – 2022  
-![Page 3](./screenshots/Page3_AOV_Trend.png)
+![Page 3](./screenshots/Page3_AOV_Trend.png.png)
 
 ### 🔹 Page 4: Sales & Profit by Payment Method  
-![Page 4](./screenshots/Page4_Payment_Analysis.png)
+![Page 4](./screenshots/Page4_Payment_Analysis.png.png)
 
 ---
 
