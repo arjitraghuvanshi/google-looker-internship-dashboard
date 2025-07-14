@@ -63,14 +63,16 @@ The project involved working across multiple tools, including:
 
 ## 📁 Repository Contents
 
-| File                         | Description                                     |
-|------------------------------|-------------------------------------------------|
-| `Google Looker Dashboard.pdf` | Complete exported dashboard (all 4 pages)      |
-| `Page1_Campaign_Overview.png` | Screenshot - Campaign Performance Overview    |
-| `Page2_Customer_Summary.png`  | Screenshot - Customer & Sales Summary         |
-| `Page3_AOV_Trend.png`         | Screenshot - AOV Monthly Trend (2022)          |
-| `Page4_Payment_Analysis.png`  | Screenshot - Sales & Profit by Payment Method |
-| `README.md`                  | Project summary, objectives, and links         |
+| File                              | Description                                           |
+|-----------------------------------|-------------------------------------------------------|
+| `Google Looker Dashboard.pdf`     | Complete exported dashboard (all 4 pages)            |
+| `Page1_Campaign_Overview.png`     | Screenshot – Campaign Performance Overview           |
+| `Page2_Customer_Summary.png`      | Screenshot – Customer & Sales Summary                |
+| `Page3_AOV_Trend.png`             | Screenshot – AOV Monthly Trend (2022)                |
+| `Page4_Payment_Analysis.png`      | Screenshot – Sales & Profit by Payment Method        |
+| `Arjit_Internship_Report.pdf`     | Final internship report document                     |
+| `README.md`                       | Project summary, task explanation, and dashboard link|
+
 
 
 ## 👨‍💼 Author
