@@ -49,7 +49,7 @@ The project involved working across multiple tools, including:
 ## 📷 Dashboard Screenshots
 
 ### 🔹 Page 1: Campaign Performance Overview  
-![Page 1](./screenshots/Page1_Campaign_Overview.png.png)
+![Page 1](./screenshots/[Page1_Campaign_Overview.png.png](https://github.com/arjitraghuvanshi/google-looker-internship-dashboard/blob/main/Page1_Campaign_Overview.png.png))
 
 ### 🔹 Page 2: Customer & Sales Summary  
 ![Page 2](./screenshots/Page2_Customer_Summary.png.png)
