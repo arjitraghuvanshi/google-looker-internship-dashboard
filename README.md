@@ -72,6 +72,8 @@ The project involved working across multiple tools, including:
 | `Page4_Payment_Analysis.png`      | Screenshot – Sales & Profit by Payment Method        |
 | `Arjit_Internship_Report.pdf`     | Final internship report document                     |
 | `README.md`                       | Project summary, task explanation, and dashboard link|
+| `Arjit_Project.ipynb`             | Jupyter notebook used during data exploration        |
+
 
 
 
